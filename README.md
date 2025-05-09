@@ -17,7 +17,7 @@ run: cd ..
 
 pwd  #You can confirm you're in the right place by running
 
-git pull origin main --rebase #In order To Reflect Changes made in the Local To Git Hub Repo
+git pull origin main --rebase #In order To Reflect Changes made in the Git Hub Repo To Local 
 
 #the file is created locally, but it won’t show up on GitHub until you explicitly add, commit, and push it using Git. Git doesn't automatically sync files — every change must be tracked and pushed manually. commands To Push files to git 
  
