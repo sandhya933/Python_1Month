@@ -1,4 +1,7 @@
-# Python_1Month 
+# Python_1Month 🚀
+## 📅 Purpose
+This repo tracks my 30-day journey of mastering Python fundamentals.
+## WEEK - 1 
 # GIT Bash Commands
 Mkdir Folder_name - To Create a Folder 
 
@@ -12,7 +15,17 @@ To go back to the root of your project (python_1month) : "sandh@sandy MINGW64 ~/
 run: cd ..
 #This takes you one level up from First_week to python_1month.
 
-pwd  #You can confirm you're in the right place by running:
+pwd  #You can confirm you're in the right place by running
+
+git pull origin main --rebase #In order To Reflect Changes made in the Local To Git Hub Repo
+
+#the file is created locally, but it won’t show up on GitHub until you explicitly add, commit, and push it using Git. Git doesn't automatically sync files — every change must be tracked and pushed manually. commands To Push files to git 
+ 
+  - git add foldername/filename
+  
+  - git commit
+  
+  - git push (or) git push origin main
 
 
 
