@@ -1,1 +1,1 @@
-Printf("Hello World")
+print("Hello World")
